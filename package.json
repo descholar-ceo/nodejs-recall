@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-recall",
+  "version": "1.0.0",
+  "description": "All exercises for nodejs",
+  "main": "index.js",
+  "author": "descholar-ceo",
+  "license": "MIT"
+}
